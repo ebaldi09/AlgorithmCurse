@@ -1,4 +1,4 @@
-package section1;
+package section2;
 
 import java.io.BufferedReader;
 import java.io.IOException;

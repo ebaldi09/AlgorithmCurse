@@ -1,0 +1,37 @@
+
+Estructuras de datos:
+
+- Externas
+    -Bases de datos
+    -Archivos
+
+- Internas
+    - Estáticas
+        - Arreglos (Arrays)
+        - Matrices
+    - Dinámicas
+        - Lineales
+            - Listas
+            - Pilas
+            - Colas
+        - No lineales
+            - Árboles
+            - Grafos
+
+    - User Defined
+        - Struct = Reserva todos los espacios.
+        - Union = Reserva el espacio mas alto pero solo 1 espacio entonces ocupa menos administrando ese espacio. (tener en cuenta los datos simultaneos, no encontrado en java)
+        - Enum = Secuencia de valores constantes
+    - Built-in
+        - int
+        - char
+        - float
+        - double
+        - boolean
+        - void
+        - wide
+        - characters
+    - Derived
+        - Array
+        - Function
+        - Pointer
